@@ -9,7 +9,7 @@ namespace TestGitFeaturesHelloWorld
             Console.WriteLine("Hello World!");
             Console.WriteLine("addin feature to feature-branch");
             Console.WriteLine("add data for merge to develop branch");
-            Console.WriteLine("testing commit with no ff merge");
+            Console.WriteLine("testing commit with no ff merge once more");
         }
     }
 }
